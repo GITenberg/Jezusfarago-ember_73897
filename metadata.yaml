@@ -1,0 +1,26 @@
+_repo: Jezusfarago-ember_73897
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nyirő, József
+    gutenberg_agent_id: '57267'
+    url: http://www.gutenberg.org/2009/agents/57267
+description: ''
+gutenberg_issued: '2024-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73897'
+language: hu
+pgterms:marc905: 20240614133951nyir
+pgterms:marc906: '1924'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aKolozsvár :$bMinerva, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Jézusfaragó ember
+url: http://www.gutenberg.org/ebooks/73897
